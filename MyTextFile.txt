@@ -11,6 +11,10 @@ January Menu
   Pav Bhaji
   Pani Puri
   
+  Fish Menu:
+    Sushi 
+    Fish Fry 
+    Fish Curry 
   
   Ice Cream
   Ras Malai
