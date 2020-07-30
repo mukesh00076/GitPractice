@@ -30,7 +30,7 @@ Snacks Counter Added
   
 Grocery Store
   Soap
-  Tooth Brush
+
 Grocery Store Added
 
 
